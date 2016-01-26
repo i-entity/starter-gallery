@@ -8,6 +8,7 @@
         <link rel="stylesheet" type="text/css" media="all" href="css/style.css" />
         <link rel="stylesheet" type="text/css" media="all" href="css/lightbox.css" />
     </head>
+    
     <body>
         <div id="wrapper">
             <div id="header">
